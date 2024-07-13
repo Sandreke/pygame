@@ -3,4 +3,4 @@ Este repositorio contiene una serie de juegos interactivos y divertidos creados 
 
 ## 🧑‍💻 Puedes crear...
 
-### • [01](https://www.instagram.com/p/C9VtHrZvE5u/):
+### • [01](https://www.instagram.com/p/C9VtHrZvE5u/): Euro 2024
