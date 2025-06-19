@@ -11,6 +11,8 @@ Este repositorio contiene una serie de juegos interactivos y divertidos creados 
 
 ### • [03](https://www.instagram.com/p/C4ZXJeCLW-0/): Dragon Ball 🐉
 
+<img src="https://github.com/Sandreke/pygame-dragon-ball/assets/64377961/47c4739d-2524-44ca-b2a0-3b582e376f9f" width="250"/>
+
 ### • 04: Tank War 🪖
 
 ### • [05](https://www.instagram.com/p/C5TrosYrMDU/): F1: Fórmula 1 🏎️
